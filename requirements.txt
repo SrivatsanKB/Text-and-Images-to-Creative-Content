@@ -6,4 +6,3 @@ youtube_transcript_api
 textwrap3
 google-cloud-texttospeech
 pyttsx3
-python-espeak
